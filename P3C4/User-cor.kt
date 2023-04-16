@@ -1,0 +1,1 @@
+data class User(var email: String, var age: Int, var experience: Int)
